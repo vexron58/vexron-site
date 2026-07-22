@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# VEXRON — Strona i System Sprzedaży Produktów Cyfrowych
 
-## Getting Started
+Projekt **VEXRON** to nowoczesna strona internetowa zbudowana w technologii **Next.js 14**, 
+zintegrowana z **Stripe**, automatyczną wysyłką eBooków oraz modułem płatności online.
 
-First, run the development server:
+Całość została zaprojektowana jako szybki, lekki i profesjonalny system sprzedaży produktów cyfrowych.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Technologie
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js 14 (App Router)**
+- **TypeScript**
+- **Stripe Checkout + Webhook**
+- **TailwindCSS**
+- **API Routes**
+- **Hosting: Vercel**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📦 Funkcjonalności
 
-To learn more about Next.js, take a look at the following resources:
+- Strona główna VEXRON
+- Oferta i opis usług
+- System zakupu eBooka
+- Integracja Stripe Checkout
+- Automatyczna wysyłka pliku PDF po płatności
+- Strona sukcesu po zakupie
+- Responsywny design
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🔒 Licencja
 
-## Deploy on Vercel
+**Copyright (c) 2024 Dawid Urbańczyk — VEXRON**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**All Rights Reserved**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Ten projekt jest chroniony pełnymi prawami autorskimi.  
+Kod, grafiki, treści oraz struktura projektu **nie mogą być kopiowane, używane, modyfikowane, publikowane ani dystrybuowane** bez pisemnej zgody autora.
+
+Projekt jest publiczny wyłącznie w celu umożliwienia działania platformy Vercel.
+
+---
+
+## 📬 Kontakt
+
+Jeśli chcesz skontaktować się w sprawie współpracy lub licencji:
+
+**Email:** vexron58@gmail.com
+**Strona:** https://vexron.pl
+
+---
+
+Dziękuję za zainteresowanie projektem VEXRON.
