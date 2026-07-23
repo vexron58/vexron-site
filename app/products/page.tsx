@@ -7,7 +7,7 @@ export default function ProductsPage() {
 
   const handleBuy = () => {
     setLoading(true);
-    window.location.href = "https://buy.stripe.com/eVqaEX6Us1TL3hv5SY0kE00";
+    window.location.href = "https://buy.stripe.com/fZudR92EceGx3hv8160kE01";
   };
 
   return (
